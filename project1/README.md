@@ -10,6 +10,8 @@ You will be provided with a PNG picture represent a website
 ### REFERENCES:
 *You can use [unsplash](https://unsplash.com/) to search for images*
 
+*You can use [font awesome](https://fontawesome.com/) for icons*
+
 **Website desktop view**
 
 ![Website - desktop view](project1-desktop-view.png)
