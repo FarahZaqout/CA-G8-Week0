@@ -20,4 +20,4 @@
   * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
   * [A CSS Flexbox Primer](https://alligator.io/css/flexbox-primer)
 
-* 01:30 - 4:20 - project 1
+* 01:30 - 4:20 - [Project 1](/project1)
