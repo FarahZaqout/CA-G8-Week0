@@ -1,4 +1,4 @@
-|  Group A        |    Group B       |     Group C      |       Group D            |        Group E           |
+|                 |                  |                  |                          |                          |
 |:---------------:|:----------------:|:----------------:|:------------------------:|:------------------------:|
 |wesam hamed      | mariam isa       | alaa abu qenass  | mahmoud falah saad       | Muhammad A M Abdulhadi   |
 |Ahmed safi       | Rawan Abudahrouj | hassan alnajar   | Mohammed Nabil Hajjaj    | mahmoud saad             |
