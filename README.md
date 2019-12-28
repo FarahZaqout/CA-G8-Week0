@@ -9,7 +9,7 @@
 * 09:00 - 09:45 - [Welcome talk](https://gofile.io/?c=OeulhK) - Community Engagement venues
 
 * 09:45 - 11:30 - [Marshmallow Challenge](https://gist.github.com/mghada/7de804707526c6999e257d36cf2558e9)
-  
+  * [Groups](/Marshmallow-Challenge-Groups.md)
 * 11:30 - 12:30 - Break 
 
 * 12:30 - 01:30 - Accessibility & Responsiveness Reading
