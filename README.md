@@ -21,3 +21,21 @@
   * [A CSS Flexbox Primer](https://alligator.io/css/flexbox-primer)
 
 * 01:00 - 4:20 - [Project 1](/project1)
+
+
+### Day 2 
+
+* 08:30 - 09:00 - [Introduction to Pair Programming](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-pair-programming)
+  * [Try pair programming](https://blog.developer.atlassian.com/try-pair-programming/)
+
+* 09:00 - 10:30 - Document Object Model(DOM)
+  1. [DOM manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation)
+  2. [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+  3. [Manipulating DOM Elements](https://plainjs.com/javascript/manipulation/)
+  4. [HTML DOM Manipulation with JavaScript](https://dev.to/miku86/html-dom-manipulation-with-javascript-g1o)
+  
+* 10:30 - 11:30 - [RESPONSIBILITY](/responsibility.md)
+
+* 11:30 - 12:30 - Break 
+
+* 12:30 - 04:20 - [Project 2](/project2)
