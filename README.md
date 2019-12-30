@@ -38,4 +38,4 @@
 
 * 11:30 - 12:30 - Break 
 
-* 12:30 - 04:20 - [Project 2](/project2)
+* 12:30 - 04:20 - [Project 2](project2.md)
