@@ -1,6 +1,6 @@
 # RESPONSIBILITY
 
-**Lead**: Hussein Mahdi
+Lead: ***Hussein Mahdi***
 
 ## Learning objectives
 Participants will:
