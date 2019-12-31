@@ -39,3 +39,8 @@
 * 11:30 - 12:30 - Break 
 
 * 12:30 - 04:20 - [Project 2](project2.md)
+
+
+### Day 3
+
+08:30 - 04:20 -  [Project 3](project3.md)
