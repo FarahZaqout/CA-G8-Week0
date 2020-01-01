@@ -43,9 +43,9 @@
 
 ### Day 3
 
-08:30 - 04:20 -  [Project 3](project3.md)
+* 08:30 - 04:20 -  [Project 3](project3.md)
 
 ### Day 4
 
-08:30 - 02:00 - [Project 4](project4.md)
-02:00 - 04:00 - Test
+* 08:30 - 02:00 - [Project 4](project4.md)
+* 02:00 - 04:00 - Test
