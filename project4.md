@@ -9,6 +9,8 @@
 * I want to be able to change the background based on the movie I clicked
 * I want to be able to add a movie with all information:
   * movie title
+  * movie thumbnails(url)
+  * movie background image(url)
   * movie rating(dropdown list)
   * movie duration
   * movie release date
